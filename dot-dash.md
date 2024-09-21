@@ -1,22 +1,22 @@
 This privacy policy applies to the Dot Dash app (hereby referred to as "Application") for mobile devices created by Allister Isaiah Harvey (hereby referred to as "Service Provider") as a free service. This service is intended for use "AS IS".
 
-### What Information Does the Application Obtain and How Is It Used?
+## What Information Does the Application Obtain and How Is It Used?
 
 The Application does not obtain any information when you download and use it. Registration is not required. However, the Application uses local storage to save user preferences, such as settings related to Morse code symbols. This data is stored on your device and used solely to enhance the functionality of the Application.
 
-### Does the Application Collect Precise Real-Time Location Information of the Device?
+## Does the Application Collect Precise Real-Time Location Information of the Device?
 
 This Application does not collect precise information about the location of your mobile device.
 
-### Do Third Parties See and/or Have Access to Information Obtained by the Application?
+## Do Third Parties See and/or Have Access to Information Obtained by the Application?
 
 Since the Application does not collect or transmit personal data, no data is shared with third parties. All user settings are stored locally on your device and are not sent to external servers.
 
-### What Are My Opt-Out Rights?
+## What Are My Opt-Out Rights?
 
 You can stop all data storage by uninstalling the Application. Additionally, you can manage local storage settings through your device’s settings. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace.
 
-### Children
+## Children
 
 Our Application is designed with privacy in mind and does not collect, store, or transmit any personal data from users. All data remains on the user's device and is not sent to our servers or any third parties.
 
@@ -24,17 +24,17 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 If you believe that a child under the age of 13 has inadvertently provided personal information through the Application, please contact us at a.i.harvey@icloud.com so we can address the situation appropriately.
 
-### Security
+## Security
 
 While the Application does not collect or transmit personal data, we are committed to safeguarding the confidentiality of any user preferences stored locally on your device. We recommend reviewing your device’s settings to manage and secure your local data appropriately.
 
-### Changes
+## Changes
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all updates. 
 
-### This Privacy Policy is Effective as of 2024-09-21
+## This Privacy Policy is Effective as of 2024-09-21
 
-### Your Consent
+## Your Consent
 
 By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
 
