@@ -26,7 +26,7 @@ If you believe that a child under the age of 13 has inadvertently provided perso
 
 ### Security
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. Although the Application does not collect or transmit personal data, it uses local storage to secure user settings. While local storage provides a level of security for stored data, it is advisable to review your device’s settings to manage and secure your local data appropriately.
+While the Application does not collect or transmit personal data, we are committed to safeguarding the confidentiality of any user preferences stored locally on your device. We recommend reviewing your device’s settings to manage and secure your local data appropriately.
 
 ### Changes
 
