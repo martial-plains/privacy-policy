@@ -1,5 +1,3 @@
-**Privacy Policy for Dot Dash App**
-
 This privacy policy applies to the Dot Dash app (hereby referred to as "Application") for mobile devices created by Allister Isaiah Harvey (hereby referred to as "Service Provider") as a free service. This service is intended for use "AS IS".
 
 ### What Information Does the Application Obtain and How Is It Used?
