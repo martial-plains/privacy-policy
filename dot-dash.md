@@ -1,43 +1,39 @@
-This privacy policy applies to the Dot Dash app (hereby referred to as "Application") for mobile devices created by Allister Isaiah Harvey (hereby referred to as "Service Provider") as a free service. This service is intended for use "AS IS".
+**Effective Date: September 21, 2024**
 
-## What Information Does the Application Obtain and How Is It Used?
+This Privacy Policy outlines how Allister Isaiah Harvey ("Service Provider") manages the information collected through the Dot Dash app ("Application"). We are committed to protecting your privacy and ensuring that your personal information is handled responsibly.
 
-The Application does not obtain any information when you download and use it. Registration is not required. However, the Application uses local storage to save user preferences, such as settings related to Morse code symbols. This data is stored on your device and used solely to enhance the functionality of the Application.
+### Information We Collect and How We Use It
 
-## Does the Application Collect Precise Real-Time Location Information of the Device?
+The Dot Dash app does not collect any personal information upon downloading or using the Application. Registration is not required. The Application uses local storage solely to save user preferences, such as Morse code symbol settings. This data is stored on your device and is used exclusively to enhance the functionality of the Application.
 
-This Application does not collect precise information about the location of your mobile device.
+### Location Information
 
-## Do Third Parties See and/or Have Access to Information Obtained by the Application?
+The Dot Dash app does not collect precise real-time location information from your device.
 
-Since the Application does not collect or transmit personal data, no data is shared with third parties. All user settings are stored locally on your device and are not sent to external servers.
+### Sharing of Information
 
-## What Are My Opt-Out Rights?
+Since the Application does not collect or transmit personal data, no information is shared with third parties. All user preferences are stored locally on your device and are not sent to external servers.
 
-You can stop all data storage by uninstalling the Application. Additionally, you can manage local storage settings through your device’s settings. You may use the standard uninstall processes available as part of your mobile device or via the mobile application marketplace.
+### Opt-Out Rights
 
-## Children
+You can stop all data storage by uninstalling the Application. Additionally, you can manage local storage settings through your device’s settings. Uninstalling the app will delete any locally stored preferences.
 
-Our Application is designed with privacy in mind and does not collect, store, or transmit any personal data from users. All data remains on the user's device and is not sent to our servers or any third parties.
+### Children’s Privacy
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not use the Application or provide any personal information. Parents and guardians should supervise their children’s use of mobile applications and encourage them to avoid inputting any personal information.
+The Dot Dash app is designed with privacy in mind and does not collect, store, or transmit any personal data. We do not knowingly collect personal information from children under the age of 13. If you are under 13, please do not use the Application or provide any personal information. Parents and guardians should supervise their children’s use of mobile applications and encourage them to avoid entering personal information. If you believe that a child under 13 has inadvertently provided personal information through the Application, please contact us at a.i.harvey@icloud.com so we can address the situation.
 
-If you believe that a child under the age of 13 has inadvertently provided personal information through the Application, please contact us at a.i.harvey@icloud.com so we can address the situation appropriately.
+### Security
 
-## Security
+While the Application does not collect or transmit personal data, we are committed to safeguarding the confidentiality of any user preferences stored locally on your device. We recommend that you regularly review your device’s settings to manage and secure your local data.
 
-While the Application does not collect or transmit personal data, we are committed to safeguarding the confidentiality of any user preferences stored locally on your device. We recommend reviewing your device’s settings to manage and secure your local data appropriately.
+### Changes to This Privacy Policy
 
-## Changes
+We may update this Privacy Policy from time to time. Significant changes will be communicated through the Application or via email. We encourage you to review this policy regularly, as continued use of the Application signifies your acceptance of any updates.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all updates. 
+### Your Consent
 
-## This Privacy Policy is Effective as of 2024-09-21
-
-## Your Consent
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
+By using the Dot Dash app, you consent to the processing of your information as described in this Privacy Policy.
 
 ### Contact Us
 
-If you have any questions regarding privacy while using the Application or have questions about our practices, please contact the Service Provider via email at a.i.harvey@icloud.com.
+If you have any questions regarding privacy while using the Application or about our practices, please contact us at a.i.harvey@icloud.com.
