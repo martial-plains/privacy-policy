@@ -1,4 +1,4 @@
-**Effective Date: September 21, 2024**
+**Effective Date: January 23, 2025**
 
 This Privacy Policy outlines how Allister Isaiah Harvey ("Service Provider") manages the information collected through the Dot Dash app ("Application"). We are committed to protecting your privacy and ensuring that your personal information is handled responsibly.
 
@@ -6,13 +6,17 @@ This Privacy Policy outlines how Allister Isaiah Harvey ("Service Provider") man
 
 The Dot Dash app does not collect any personal information upon downloading or using the Application. Registration is not required. The Application uses local storage solely to save user preferences, such as Morse code symbol settings. This data is stored on your device and is used exclusively to enhance the functionality of the Application.
 
+#### **Android App**
+
+In addition to the above, the Android version of the Dot Dash app utilizes the Firebase Crashlytics library. This library collects non-personal diagnostic information related to app performance and crashes. The information gathered helps us improve the app's functionality and user experience but does not identify individual users.
+
 ### **Location Information**
 
 The Dot Dash app does not collect precise real-time location information from your device.
 
 ### **Sharing of Information**
 
-Since the Application does not collect or transmit personal data, no information is shared with third parties. All user preferences are stored locally on your device and are not sent to external servers.
+Since the Application does not collect or transmit personal data, no information is shared with third parties. All user preferences are stored locally on your device and are not sent to external servers. The information collected by Firebase Crashlytics is used solely for app performance improvement and is not associated with personal data.
 
 ### **Opt-Out Rights**
 
